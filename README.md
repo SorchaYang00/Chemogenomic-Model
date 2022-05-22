@@ -10,7 +10,8 @@ Identification and validation of bioactive small-molecule targets is a significa
 
 **Code:** 0522
 
-[Including: Data for modeling and for the employment of target prediction service]
+
+**Note:** Resource including data for modeling and for the employment of target prediction servic
 
 ## Implementation
 ### If you want to predict targets for several compounds, there are three steps for you:   
