@@ -7,9 +7,12 @@ Identification and validation of bioactive small-molecule targets is a significa
 
 ## Data Resource
 
+链接：https://pan.baidu.com/s/1mbVLe4qgNG4k4mW1qLMQJw 
+提取码：0522
+
 ## Implementation
 
-### if you want to predict for several compounds, there are three steps for you:   
+### if you want to predict targets for several compounds, there are three steps for you:   
 
 step 1: Train a ensemble chemogenomic model using the available data I uploaded;   
 step 2: Calulate descriptors for these compounds for which you wish to predict targets, using the Python scripts "2_cal_descriptors_###";   
