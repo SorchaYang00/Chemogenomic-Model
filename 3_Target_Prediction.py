@@ -83,4 +83,7 @@ if  "__main__" == __name__:
     df_stack = pd.DataFrame(y_proba_stack0)
     
     ###### calculate ensemble probabilities ######
-    df_stack['average'] = df_stack.apply(lambda x: np.average(x), axis=1)
+    df_stack['average'] = df_stack.apply(lambda x: np.average(x), axis=1
+                                         
+
+    
