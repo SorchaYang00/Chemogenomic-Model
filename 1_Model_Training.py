@@ -34,5 +34,3 @@ for file_o in files:
     with open(pkl_filename, 'wb') as file:
         pickle.dump(model, file)      
         
-
-      
