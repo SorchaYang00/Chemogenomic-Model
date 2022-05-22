@@ -10,9 +10,9 @@ Identification and validation of bioactive small-molecule targets is a significa
 ## Implementation
 
 if you want to predict for several compounds, there are three steps for you:
-### step 1: Train a ensemble chemogenomic model using the available data I uploaded;   
-### step 2: Calulate descriptors for these compounds for which you wish to predict targets, using the Python scripts "2_cal_descriptors_###";   
-### step 3: using the Python scripts "3_Target_Prediction";     
+**step 1: Train a ensemble chemogenomic model using the available data I uploaded;   
+step 2: Calulate descriptors for these compounds for which you wish to predict targets, using the Python scripts "2_cal_descriptors_###";   
+step 3: using the Python scripts "3_Target_Prediction";   **  
   
 
   
