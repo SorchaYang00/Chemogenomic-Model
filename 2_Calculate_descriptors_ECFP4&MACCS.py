@@ -3,8 +3,6 @@ from rdkit.Chem import AllChem as Chem
 import numpy as np
 from rdkit.Chem import MACCSkeys
 
-
-
 #############################################
 
 LOAD_FILE = r"E:\mols_for_prediction.csv"
@@ -51,4 +49,4 @@ if '__main__'==__name__:
     fps = main(smis)
     print(fps)
 #    fps.to_csv(SAVE_FILE, index=False)
-  
+ 
